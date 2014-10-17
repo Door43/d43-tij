@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tij:home|Door43 (tij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tij|d43-tij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tij/archive/master.zip|d43-tij.zip]]
+
+**Recent Changes**
+{{changes>ns = tij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tij|Ethnologue data]]
+
